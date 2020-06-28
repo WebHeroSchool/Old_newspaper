@@ -6,10 +6,10 @@ h1 {
   text-align: left;
 }
 
-div {
+p {
   text-align: left;
   font-style: italic;
   border-top: 1px solid;
   border-bottom: 1px solid;
-  max-width: 72%;
+  max-width: 100%;
 }
