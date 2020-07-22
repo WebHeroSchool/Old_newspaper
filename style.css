@@ -1,15 +1,7 @@
-body {
-  background: #FFFFFF;
+* {
+  font-family: 'Fondamento', cursive;
 }
 
-h1 {
-  text-align: left;
-}
-
-p {
-  text-align: left;
-  font-style: italic;
-  border-top: 1px solid;
-  border-bottom: 1px solid;
-  max-width: 100%;
+.title {
+  font-family: 'Anton', sans-serif;
 }
